@@ -1,6 +1,6 @@
-from masterproblem import *
-from subproblem import *
-from compactsolver import Problem
+from master import *
+from sub import *
+from compact import Problem
 import pandas as pd
 
 # **** Prerequisites ****
